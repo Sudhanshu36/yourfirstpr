@@ -19,6 +19,7 @@ include:
 * Gracefully accepting constructive criticism
 * Focusing on what is best for the community
 * Showing empathy towards other community members
+* Providing constructive criticism 
 
 Examples of unacceptable behavior by participants include:
 
@@ -28,9 +29,9 @@ advances
 * Public or private harassment
 * Publishing others' private information, such as a physical or electronic
   address, without explicit permission
+* Having a condescending attitude
 * Other conduct which could reasonably be considered inappropriate in a
   professional setting
-
 ## Our Responsibilities
 
 Project maintainers are responsible for clarifying the standards of acceptable
